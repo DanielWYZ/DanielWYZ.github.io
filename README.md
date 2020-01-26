@@ -1,2 +1,2 @@
 # DanielWYZ.github.io
-Daniel's blog
+Daniel's *blog*
